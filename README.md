@@ -24,5 +24,5 @@
 
 <p align="center">
   <i>¡Conectemos!</i>
-  [![Email](ana.calero94u@std.uni.edu.ni)
+  (ana.calero94u@std.uni.edu.ni)
 </p>
