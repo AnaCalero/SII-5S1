@@ -24,5 +24,5 @@
 
 <p align="center">
   <i>¡Conectemos!</i>
-  [![Email](https://img.shields.io/badge/Email-ana.calero@email.com-D14836?style=flat&logo=gmail)](mailto:ana.calero@email.com)
+  [![Email](ana.calero94u@std.uni.edu.ni)
 </p>
